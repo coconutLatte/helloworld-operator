@@ -1,0 +1,7 @@
+# helloworld-example.yaml
+apiVersion: example.com/v1
+kind: HelloWorld
+metadata:
+  name: test
+spec:
+  message: "你好，Kubernetes Operator！"
