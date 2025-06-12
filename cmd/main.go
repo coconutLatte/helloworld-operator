@@ -31,7 +31,7 @@ func main() {
 
 	// 目标 GVR
 	gvr := schema.GroupVersionResource{
-		Group:    "example.com",
+		Group:    "coconutlatte.com",
 		Version:  "v1",
 		Resource: "helloworlds",
 	}
